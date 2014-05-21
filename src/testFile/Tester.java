@@ -1,5 +1,5 @@
 /**
- * Author: Hongsen He, Chicheng Zhou
+ * Author: Hongsen He
  * March 16, 2014
  * 
  * In this project, we simulate a EcoSystem
